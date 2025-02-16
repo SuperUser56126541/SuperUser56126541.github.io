@@ -1,0 +1,2 @@
+JR|Rokosz Jarosław - P (ZSI)|Link do sprawdzianu|14.02.2025|10:38|false|Witam, oto link do sprawdzianu: https://example.com
+AN|Nowak Anna - Nauczyciel|Materiały do lekcji|15.02.2025|08:20|false|Załączam materiały do dzisiejszej lekcji.
