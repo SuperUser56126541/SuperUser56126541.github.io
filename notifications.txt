@@ -1,2 +1,5 @@
-Ocena|Nowa ocena: 1, Matematyka, Jakub|14.02.2025|10:38
-Ocena|Nowa ocena: 5, Fizyka, Anna|15.02.2025|12:00
+Zmiana planu dla Jakub|Zastępstwo|17.02.2025|19:12
+Ocena|Nowa ocena: 6, Programowanie aplikacji internetowych, Jakub|17.02.2025|14:40
+Szczęśliwy numerek|W dniu 17.02.2025 szczęśliwy numer to 35, Jakub|17.02.2025|7:00
+Zmiana planu dla Jakub|Zastępstwo|16.02.2025|19:12
+Ocena|Nowa ocena: 1, Matematyka, Jakub|15.02.2025|16:40
