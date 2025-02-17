@@ -1,0 +1,6 @@
+Poniedziałek|8:00|Język polski
+Poniedziałek|9:40|Matematyka
+Wtorek|10:25|Historia
+Środa|11:15|Fizyka
+Czwartek|12:15|Chemia
+Piątek|13:05|Język angielski
