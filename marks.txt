@@ -1,1 +1,2 @@
-6|Religia|R
+6|Programowanie aplikacji internetowych|P
+1 (4%)|Matematyka|M
