@@ -1,2 +1,11 @@
-JR|Rokosz Jarosław - P (ZSI)|Link do sprawdzianu|14.02.2025|10:38|false|Witam, oto link do sprawdzianu: https://example.com
-AN|Nowak Anna - Nauczyciel|Materiały do lekcji|15.02.2025|08:20|false|Załączam materiały do dzisiejszej lekcji.
+MT|Tamborska Marlena - P (ZSI)|Sztuka Pomagania|16.12.2024|10:38|false|Treść
+AL|Lenart Agnieszka - P (ZSI)|Szlachetna Paczka Dziękujemy|14.12.2024|10:38|false|Treść
+AG|Ginter Anna - P (ZSI)|Prośba|28.11.2024|10:38|false|Treść
+G|Gałczyńska-Karasek Marta - P (ZSI)|Biała Szkoła - wpłata zaliczki|18.11.2024|10:38|false|Treść
+AG|Ginter Anna - P (ZSI)|terminowość usprawiedliwiania...|17.11.2024|10:38|false|Treść
+AL|Lenart Agnieszka - P (ZSI)|SZLACHETNA PACZKA W NASZ...|16.11.2024|12:18|false|Treść
+WC|Chmiel Wioletta - P (ZSI)|Brak wolnych miejsc na wyciec...|07.11.2024|10:38|false|Treść
+G|Gałczyńska-Karasek Marta - P (ZSI)|Biała Szkoła|04.11.2024|10:38|false|Treść
+WC|Chmiel Wioletta - P (ZSI)|Szkolna wycieczka do Wło...|04.11.2024|10:38|false|Treść
+DK|Kosmala Dorota - P (ZSI)|Świętokrzyski program stypendi...|10.10.2024|10:38|false|Treść
+TK|Kozieł Tomasz - P (ZSI)|Kielce Budżet Obywatelski - z...|25.09.2024|10:38|false|Treść
