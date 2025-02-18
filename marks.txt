@@ -1,9 +1,2 @@
-6, 3|Historia|H
-+|Programowanie strukturalne i obiektowe w języku Python|P
-5|Religia|R
-T(53%)|Chemia|C
-5|Język niemiecki|J
-3|Geografia|G
-2+|Język angielski|J
 1 (4%)|Matematyka|M
 6|Programowanie aplikacji internetowych|P
