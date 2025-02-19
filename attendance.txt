@@ -6,4 +6,4 @@
 12:15|Język angielski|Język niemiecki|Chemia|Wychowanie fizyczne|Tworzenie i zarządanie bazami danych
 13:05|Projektowanie algorytmów i sktruktur danych|Testowanie i dokumentacja aplikacji|Język polski|Wychowanie fizyczne|Tworzenie i zarządanie bazami danych
 14:00|Programowanie aplikacji internetowych|Historia| |Geografia|Matematyka
-14:55|Religia| | |Godzina do dyspozycji wychowawcy| 
+14:55|Religia|||Godzina do dyspozycji wychowawcy|
