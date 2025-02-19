@@ -1,7 +1,15 @@
-Matematyka|5
-Matematyka|5
-Matematyka|6
-Polski|4
-Polski|4
-Polski|4
-Polski|3
+Biznes i zarządzanie|4
+Chemia|T(53%)
+Geografia|3
+Historia|3
+Historia|6
+Język angielski|2.50
+Język niemiecki|5
+Matematyka|1 (4%)
+Matematyka|2 (30%)
+Programowanie aplikacji interne...|6
+Programowanie aplikacji interne...|5
+Programowanie strukturalne i o...|+
+Religia|5
+Religia|5
+Religia|6
