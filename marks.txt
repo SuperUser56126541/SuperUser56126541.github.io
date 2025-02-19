@@ -1,2 +1,2 @@
-1 (4%)|Matematyka|M
 6|Programowanie aplikacji internetowych|P
+5|Biznes i zarządzanie|B
