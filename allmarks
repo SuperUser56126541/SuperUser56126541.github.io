@@ -1,0 +1,5 @@
+[
+  { "subject": "Matematyka", "marks": [5, 4, 3] },
+  { "subject": "Fizyka", "marks": [4, 4, 5] },
+  { "subject": "Chemia", "marks": [3, 3, 4] }
+]
