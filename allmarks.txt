@@ -13,3 +13,4 @@ Programowanie strukturalne i o...|+
 Religia|5
 Religia|5
 Religia|6
+Wychowanie fizyczne|np
