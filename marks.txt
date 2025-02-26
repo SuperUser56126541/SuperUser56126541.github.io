@@ -1,3 +1,2 @@
-6|Programowanie aplikacji internetowych|P
-5|Biznes i zarządzanie|B
 np|Wychowanie fizyczne|W
+5|Historia i teraźniejszość|H
