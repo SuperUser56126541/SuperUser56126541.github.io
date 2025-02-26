@@ -3,6 +3,7 @@ Chemia|T(53%)
 Geografia|3
 Historia|3
 Historia|6
+Historia i teraźniejszość|5
 Język angielski|2.50
 Język niemiecki|5
 Matematyka|1 (4%)
