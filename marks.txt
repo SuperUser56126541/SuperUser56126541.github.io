@@ -1,2 +1,3 @@
-np|Wychowanie fizyczne|W
-5|Historia i teraźniejszość|H
+6|Wychowanie fizyczne|W
+3|Język angielski|J
+3|Programowanie strukturalne i o...|P
