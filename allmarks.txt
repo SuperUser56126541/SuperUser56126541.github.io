@@ -1,17 +1,19 @@
-Biznes i zarządzanie|5
+Biznes i zarządzanie|5+
 Chemia|T(53%)
 Geografia|3
 Historia|3
 Historia|6
 Historia i teraźniejszość|5
 Język angielski|2.50
+Język angielski|3
 Język niemiecki|5
 Matematyka|1 (4%)
 Matematyka|2 (30%)
 Programowanie aplikacji interne...|6
 Programowanie aplikacji interne...|5
 Programowanie strukturalne i o...|+
+Programowanie strukturalne i o...|2
 Religia|5
 Religia|5
 Religia|6
-Wychowanie fizyczne|np
+Wychowanie fizyczne|6
