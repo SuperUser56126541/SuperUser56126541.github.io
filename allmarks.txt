@@ -7,7 +7,7 @@ Historia i teraźniejszość|5
 Język angielski|2.50
 Język angielski|3
 Język niemiecki|5
-Matematyka|1 (4%)
+Matematyka|3 (56%)
 Matematyka|2 (30%)
 Programowanie aplikacji interne...|6
 Programowanie aplikacji interne...|5
