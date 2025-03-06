@@ -1,3 +1,4 @@
 6|Wychowanie fizyczne|W
 3|Język angielski|J
 3|Programowanie strukturalne i o...|P
+3 (56% 1 (4%))|Matematyka|M
