@@ -1,18 +1,28 @@
+Biologia|5+
 Biznes i zarządzanie|5+
 Chemia|T(53%)
+Fizyka|2
+Geografia|3
 Geografia|3
 Historia|3
 Historia|6
 Historia i teraźniejszość|5
 Język angielski|2.50
 Język angielski|3
+Język niemiecki|3
 Język niemiecki|5
+Język polski|5
+Język polski|2
 Matematyka|3 (56%)
 Matematyka|2 (30%)
+Podstawy stron internet...|4.50
 Programowanie aplikacji interne...|6
 Programowanie aplikacji interne...|5
 Programowanie strukturalne i o...|+
 Programowanie strukturalne i o...|2
+Religia|+
+Religia|6
+Religia|5
 Religia|5
 Religia|5
 Religia|6
