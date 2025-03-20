@@ -1,4 +1,5 @@
-6|Wychowanie fizyczne|W
-3|Język angielski|J
++, 6|Religia|R
+2|Fizyka|F
 3|Programowanie strukturalne i o...|P
-3 (56% 1 (4%))|Matematyka|M
+4+|Podstawy stron internetowych|P
++, +|Tworzenie i zarządzanie ba...|T
