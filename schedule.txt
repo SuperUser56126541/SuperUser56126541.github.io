@@ -7,6 +7,6 @@
 12:20|Język angiel...|Język nie...|Chemia|Wych...|Odwołane
 13:10|Projektowanie...|Testo...|Język polski|Wych...|Odwołane
 14:00|Progr...|Historia| |Geogr...|
-14:55|Religia| | | | 
+14:55|Odwołane| | | | 
 15:40| | | | | 
 16:30| | | | | 
