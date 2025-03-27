@@ -1,12 +1,12 @@
 7:10| | | | | 
-8:00| |Progra...|Progra...|Godzi...|Odwołane
+8:00| |Progra...|Progra...|Godzi...|Progra...
 8:50|Język polski|Progra...|Progra...|Język angiel...|Progra...
 9:40|Język polski|Podstawy...|Historia i...|Język angiel...|Wych...
 10:30|Język nie...|Podstawy...|Biznes i zarzą...|Mate...|Historia
-11:30|Informatyka|Religia|Biolo...|Mate...|Odwołane
-12:20|Język angiel...|Język nie...|Chemia|Wych...|Odwołane
-13:10|Projektowanie...|Testo...|Język polski|Wych...|Odwołane
-14:00|Progr...|Historia| |Geogr...|
+11:30|Informatyka|Religia|Biolo...|Mate...|Fizyka
+12:20|Język angiel...|Język nie...|Chemia|Wych...|Tworze...
+13:10|Projektowanie...|Testo...|Język polski|Wych...|Tworze...
+14:00|Progr...|Historia| |Geogr...|Matematyka
 14:55|Odwołane| | | | 
 15:40| | | | | 
 16:30| | | | | 
