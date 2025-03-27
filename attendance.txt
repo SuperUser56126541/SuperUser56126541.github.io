@@ -1,9 +1,9 @@
-8:00| |Programowanie strukturalne i obiektowe w języku Java|Programowanie strukturalne i obiektowe w języku Python|Godzina do dyspozycji wychowawcy|
+8:00| |Programowanie strukturalne i obiektowe w języku Java|Programowanie strukturalne i obiektowe w języku Python|Godzina do dyspozycji wychowawcy|Programowanie aplikacji internetowych
 8:50|Język polski|Programowanie strukturalne i obiektowe w języku Java|Programowanie strukturalne i obiektowe w języku Python|Język angiel...|Programowanie aplikacji internetowych
 9:40|Język polski|Podstawy stron interntowych|Historia i teraźniejszość|Język angielski|Wychowanie fizyczne
 10:25|Język niemiecki|Podstawy stron internetowych|Biznes i zarządzanie|Matematyka|Historia
-11:15|Informatyka|Religia|Biologia|Matematyka|
-12:15|Język angielski|Język niemiecki|Chemia|Wychowanie fizyczne|
-13:05|Projektowanie algorytmów i sktruktur danych|Testowanie i dokumentacja aplikacji|Język polski|Wychowanie fizyczne|
-14:00|Programowanie aplikacji internetowych|Historia| |Geografia|
+11:15|Informatyka|Religia|Biologia|Matematyka|Fizyka
+12:15|Język angielski|Język niemiecki|Chemia|Wychowanie fizyczne|Tworzenie i zarządanie bazami danych
+13:05|Projektowanie algorytmów i sktruktur danych|Testowanie i dokumentacja aplikacji|Język polski|Wychowanie fizyczne|Tworzenie i zarządanie bazami danych
+14:00|Programowanie aplikacji internetowych|Historia| |Geografia|Matematyka
 14:55|Religia||||
