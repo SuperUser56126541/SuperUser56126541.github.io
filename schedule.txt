@@ -4,9 +4,9 @@
 9:40|Język polski|Podstawy...|Historia i...|Język angiel...|Wych...
 10:30|Język nie...|Podstawy...|Biznes i zarzą...|Mate...|Historia
 11:30|Informatyka|Religia|Biolo...|Mate...|Fizyka
-12:20|Język angiel...|Język nie...|Chemia|Wych...|Tworze...
-13:10|Projektowanie...|Testo...|Język polski|Wych...|Tworze...
-14:00|Progr...|Historia| |Geogr...|Matematyka
+12:20|Język angiel...|Język nie...|Chemia|Wych...|
+13:10|Projektowanie...|Testo...|Język polski|Wych...|
+14:00|Progr...|Historia| |Geogr...|
 14:55|Odwołane| | | | 
 15:40| | | | | 
 16:30| | | | | 
